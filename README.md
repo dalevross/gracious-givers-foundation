@@ -1,2 +1,2 @@
 # gracious-givers-foundation
-Real word project for Charity organisation
+Real world project for Charity organisation
